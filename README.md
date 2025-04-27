@@ -33,7 +33,6 @@ Follow these steps to set up and run the project locally:
    flutter pub get
 
    flutter run
-```bash
 
 
 
