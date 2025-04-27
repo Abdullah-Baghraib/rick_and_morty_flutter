@@ -1,16 +1,41 @@
-# rick_and_morty_flutter
+# Rick and Morty App
 
-A new Flutter project.
+A mobile app built with Flutter that displays characters and episode information from the Rick and Morty universe using the Recommendation API.
+
+## Features
+
+- Browse and search characters from the Rick and Morty universe.
+- View detailed character profiles (status, species, origin, etc.).
+- See a list of episodes each character appears in.
+- Smooth and intuitive user experience.
+- Fast data loading using the Recommendation API.
+
+## Technologies Used
+
+- Flutter (for mobile app development)
+- Recommendation API (for character and episode data)
+
+## Screenshots
+
+![image1](https://github.com/user-attachments/assets/74c4393e-b5d8-439d-808b-ec54bfca5aca)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to set up and run the project locally:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/rick-and-morty-app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   cd rick-and-morty-app
+   
+   flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   flutter run
+```bash
+
+
+
+
+
