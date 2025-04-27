@@ -26,7 +26,7 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rick-and-morty-app.git
+   git clone https://github.com/Abdullah-Baghraib/rick-and-morty-app.git
 
    cd rick-and-morty-app
    
